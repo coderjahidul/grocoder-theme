@@ -9,6 +9,7 @@
 
 
    require_once( plugin_dir_path( __FILE__ ) . '/codestar/codestar-framework.php' );
+   require_once( plugin_dir_path( __FILE__ ) . '/codestar/samples/config.php' );
    require_once( plugin_dir_path( __FILE__ ) . 'metabox.php' );
 
 ?>
