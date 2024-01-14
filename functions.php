@@ -5,11 +5,10 @@
     add_theme_support( 'title-tag' );
     add_theme_support( 'post-thumbnails' );
     add_theme_support( 'woocommerce' );
-    
    }
 
 
-      require_once( plugin_dir_path( __FILE__ ) . '/codestar/codestar-framework.php' );
-      require_once( plugin_dir_path( __FILE__ ) . 'metabox.php' );
+   require_once( plugin_dir_path( __FILE__ ) . '/codestar/codestar-framework.php' );
+   require_once( plugin_dir_path( __FILE__ ) . 'metabox.php' );
 
 ?>
